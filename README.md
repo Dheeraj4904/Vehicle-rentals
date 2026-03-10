@@ -54,8 +54,8 @@ YourWheels is a full-stack web application that allows **buyers** to rent vehicl
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Dheeraj4904/MERN-Stack-vehicles-platform.git
-cd your-wheels
+git clone https://github.com/Dheeraj4904/Vehicle-rentals.git
+
 ```
 
 ### 2. Install backend dependencies
